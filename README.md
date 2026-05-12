@@ -1,6 +1,3 @@
-# prepinsta-java-programs
-Java programs learned from PrepInsta course, organized into basic and intermediate levels for structured practice.
-
 # PrepInsta Java Programs ☕
 
 This repository contains Java programs that I learned and practiced from the PrepInsta Course.
@@ -11,19 +8,30 @@ The programs are organized based on difficulty levels for better understanding a
 
 ## 📂 Folder Structure
 
-* basic-java-programs → Beginner-level programs
-* intermediate-java-programs → Intermediate-level programs
+- basic-java-programs → Beginner-level Java programs
+- intermediate-java-programs → Intermediate-level Java programs
 
 ---
 
 ## 🎯 Purpose
 
-* Learn Java step-by-step
-* Practice coding problems
-* Improve logical thinking
+- Learn Java step-by-step
+- Practice coding problems
+- Improve logical thinking
+- Strengthen problem-solving skills
+
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- VS Code / Eclipse
+- JDK
 
 ---
 
 ## 🙌 Author
 
-Thirueswaran V
+**THIRUESWARAN V**
+
+Completed Basic and Intermediate Java Programs from the PrepInsta Course.
